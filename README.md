@@ -4,7 +4,9 @@ The is_divisible_by_x_and_y function takes in three parameters: n, x, and y. It 
 ## Syntax
 ruby code
 <def is_divisible_by_x_and_y(n, x, y)
+
    function code goes here
+   
 end>
 
 ## Parameters
@@ -24,4 +26,5 @@ In the second example, n is 15 and x and y are 3 and 4, respectively. Since 15 i
 
 # Done by
 Fred kamuyu
+
 Elly Kipchumba
