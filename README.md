@@ -3,11 +3,12 @@ The is_divisible_by_x_and_y function takes in three parameters: n, x, and y. It 
 
 ## Syntax
 ruby code
-<def is_divisible_by_x_and_y(n, x, y)
+
+def is_divisible_by_x_and_y(n, x, y)
 
    function code goes here
-   
-end>
+
+end
 
 ## Parameters
 n: A positive, non-zero integer.
